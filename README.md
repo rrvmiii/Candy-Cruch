@@ -2,13 +2,13 @@
 
 tutorial :
 
-Link Site : [Game]([https://rrvmiii.github.io/WhatsApp.Login-Web/Login.html](https://rrvmiii.github.io/Candy-Cruch/))
+Link Site : [Game](https://rrvmiii.github.io/Candy-Cruch/)
 
 Enjoy :)
 
 # This Code BY @rrvmiii <IG
 
-![image](![Uploading image.png…]())
+![Uploading image.png…]()
 
 
 ### MIT Licence
