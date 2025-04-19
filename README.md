@@ -1,30 +1,14 @@
-# candy-crush
-A vanilla JavaScript Game inspired by Candy Crush - Built for learning purposes
+# Candy Cruch
 
-In this walkthrough, I show you how to build Candy Crush in pure JavaScript, HTML and CSS. Watch the full video walkthrough [here](https://youtu.be/XD5sZWxwJUk): 
+tutorial :
 
-This walkthrough is great as it will show you how to drag and drop elements in JavaScript. This is a very popular element in building many JavaScript projects.
+Link Site : [Game]([https://rrvmiii.github.io/WhatsApp.Login-Web/Login.html](https://rrvmiii.github.io/Candy-Cruch/))
 
-In addition to this, we will also be practising using inbuilt methods such as:
+Enjoy :)
 
-- addEventListener()
-- setAttribute()
-- setInterval()
-- some()
-- every()
-- forEach()
-- includes()
-- contains()
-- add()
-- remove()
-- createElement()
-- appendChild()
-- push()
-- continue
+# This Code BY @rrvmiii <IG
 
-And many more.
-
-I would love to see your finished game to please do tag me on YouTube, Twitter (ania_kubow) or Instagram :)
+![image](![Uploading image.png…]())
 
 
 ### MIT Licence
